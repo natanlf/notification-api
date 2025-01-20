@@ -1,6 +1,6 @@
-package com.natancode.notification.domain;
+package com.natancode.notification.domain.model;
 
-public enum NotificationTypes {
+public enum NotificationType {
 
     SMS,
     EMAIL,

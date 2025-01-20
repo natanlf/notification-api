@@ -1,6 +1,6 @@
-package com.natancode.notification.core.factory;
+package com.natancode.notification.core.notification.factory;
 
-import com.natancode.notification.core.product.Notification;
+import com.natancode.notification.core.notification.product.Notification;
 
 public abstract class NotificationFactory {
 

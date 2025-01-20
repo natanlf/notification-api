@@ -1,4 +1,7 @@
-package com.natancode.notification.core.product;
+package com.natancode.notification.core.notification.product;
 
 public interface Notification {
+
+    void notifyUser(Long userId);
+
 }
